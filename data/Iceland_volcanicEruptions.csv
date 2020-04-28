@@ -1,0 +1,19 @@
+id,Year,Month,Day,Name,Location,Country,lat,lng,Elevation,Type,Status,Time,VolcanicExplosivityIndex,Agent,DEATHS,VEI_1753,VEI_1755,VEI_1766,VEI_1784,VEI_1845,VEI_1860,VEI_1861,VEI_1875,VEI_1918,VEI_1927,VEI_1947,VEI_1970,VEI_1973,VEI_1977,VEI_1980,VEI_1996,VEI_2010,VEI_2011
+1,1753,October,15,Grimsvotn,Iceland-NE,Iceland,64.42,-17.33,1725,Caldera,Historical,D1,2,,,2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+2,1755,October,17,Katla,Iceland-S,Iceland,63.63,-19.05,1512,Subglacial volcano,Historical,D2,4,E,2,null,4,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+3,1766,April,5,Hekla,Iceland-S,Iceland,63.98,-19.7,1491,Stratovolcano,Historical,D1,4,,,null,null,4,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+4,1784,April,Unknown,Grimsvotn,Iceland-NE,Iceland,64.42,-17.33,1725,Caldera,Historical,D1,4,I,,null,null,null,4,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+5,1845,September,2,Hekla,Iceland-S,Iceland,63.98,-19.7,1491,Stratovolcano,Historical,D1,4,,,null,null,null,null,4,null,null,null,null,null,null,null,null,null,null,null,null,null
+6,1860,Unknown,Unknown,Grimsvotn,Iceland-NE,Iceland,64.42,-17.33,1725,Caldera,Historical,D1,3,m,1,null,null,null,null,null,3,null,null,null,null,null,null,null,null,null,null,null,null
+7,1861,May,Unknown,Grimsvotn,Iceland-NE,Iceland,64.42,-17.33,1725,Caldera,Historical,D1,2,,,null,null,null,null,null,null,2,null,null,null,null,null,null,null,null,null,null,null
+8,1875,March,29,Askja,Iceland-NE,Iceland,65.03,-16.75,1516,Stratovolcano,Historical,D2,5,,,null,null,null,null,null,null,null,5,null,null,null,null,null,null,null,null,null,null
+9,1918,October,12,Katla,Iceland-S,Iceland,63.63,-19.05,1512,Subglacial volcano,Historical,D2,4,,,null,null,null,null,null,null,null,null,4,null,null,null,null,null,null,null,null,null
+10,1927,September,5,Esjufjoll,Iceland-SE,Iceland,64.27,-16.65,1760,Stratovolcano,Historical,D2,1,M,1,null,null,null,null,null,null,null,null,null,1,null,null,null,null,null,null,null,null
+11,1947,November,2,Hekla,Iceland-S,Iceland,63.98,-19.7,1491,Stratovolcano,Historical,D1,4,L,1,null,null,null,null,null,null,null,null,null,null,4,null,null,null,null,null,null,null
+12,1970,May,5,Hekla,Iceland-S,Iceland,63.98,-19.7,1491,Stratovolcano,Historical,D1,3,,,null,null,null,null,null,null,null,null,null,null,null,3,null,null,null,null,null,null
+13,1973,January,27,Vestmannaeyjar,Iceland-S,Iceland,63.43,-20.28,279,Submarine volcano,Historical,D1,3,G,1,null,null,null,null,null,null,null,null,null,null,null,null,3,null,null,null,null,null
+14,1977,April,27,Krafla,Iceland-NE,Iceland,65.73,-16.78,650,Caldera,Historical,D1,1,,,null,null,null,null,null,null,null,null,null,null,null,null,null,1,null,null,null,null
+15,1980,August,17,Hekla,Iceland-S,Iceland,63.98,-19.7,1491,Stratovolcano,Historical,D1,3,,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3,null,null,null
+16,1996,September,30,Grimsvotn,Iceland-NE,Iceland,64.42,-17.33,1725,Caldera,Historical,D1,3,,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3,null,null
+17,2010,March,31,Eyjafjallajokull,Iceland-S,Iceland,63.63,-19.62,1666,Stratovolcano,Historical,D1,4,,2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,4,null
+18,2011,July,9,Katla,Iceland-S,Iceland,63.63,-19.05,1512,Subglacial volcano,Historical,D2,1,,,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,1

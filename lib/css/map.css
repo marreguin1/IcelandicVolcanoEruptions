@@ -1,0 +1,111 @@
+#map {
+    height: 800px;
+    width: 100%;
+    display: inline-block;
+    /*position: absolute;
+    top: 0;
+    bottom:0;
+    right:0;
+    left:0;
+    overflow:hidden;*/
+}
+
+
+#header {
+    background-color: white;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    border: 1px solid gray; 
+
+}
+
+#name {
+    float: right;
+    font-family: fantasy;
+    font-size: 15px;
+    padding-right: 10px;
+    color: darkgray;
+
+} 
+
+#title {
+    font-family: fantasy;
+    font-size: 2em;
+    letter-spacing: 3px
+}
+
+#subtitle {
+    font-family: fantasy;
+    font-size: 1em;
+}
+
+
+
+.sequence-control-container {
+    width: 350px;
+    height: 34px;
+    background-color: rgba(255,255,255,0.8);
+    padding: 10px;
+    line-height: 45px;
+    text-align: center;
+    border: solid gray 1px;
+    border-radius: 5px;
+}
+
+#temporal-legend {
+    width: 150px;
+    height: 400;
+    background-color: rgba(255,255,255,0.8);
+    padding: 0px 5px;
+    line-height: 32px;
+    font-size: 20px;
+    font-family: fantasy;
+    text-align: center;
+    border: solid gray 1px;
+    margin-bottom: 2px;
+    border-radius: 5px;
+    
+}
+
+#attribute-legend {
+    background-color: rgba(255,255,255,0.8);
+    width: ;
+    height: ;
+    padding: ;
+    line-height: ;
+    text-align: center;
+    border: solid gray 1px;
+    border-radius: 5px;
+}
+
+#panel {
+    
+    width: 16%;
+    padding: 20px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    line-height: 42px;
+    background-color: ;
+}
+
+.leaflet-popup-content p {
+    margin: .2em 0;
+    
+}
+
+.range-slider {
+    width: 200px;
+}
+
+
+#forward {
+    float: right;
+    border-radius: 5px;
+    
+}
+
+#reverse {
+    float: left;
+    border-radius: 5px;
+}
